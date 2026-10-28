@@ -1,0 +1,7 @@
+NETLIFY (no account setup beyond login):
+1. Unzip this file so you see index.html, index.wasm, index.pck ... in one folder.
+2. Go to https://app.netlify.com/drop
+3. Drag the FOLDER (not the zip, not a parent folder) onto the page.
+4. Open the link Netlify gives you. First load downloads about 10 MB; wait for the bar.
+Play: click the game once to capture the mouse. Esc or P pauses.
+Use desktop Chrome, Edge or Firefox. Phones are not supported (no touch controls).
